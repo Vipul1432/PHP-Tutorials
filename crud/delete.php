@@ -4,9 +4,9 @@ include 'conn.php';
 
 $id = $_GET['id'];
 
-$q = "DELETE FROM `employeetable` WHERE id=$id";
+$sql = "DELETE FROM `employeetable` WHERE id=$id";
 
-mysqli_query($conn,$q);
+mysqli_query($conn,$sql);
 
 header('location:display.php');
 
