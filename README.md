@@ -1,2 +1,2 @@
 # PHP-Tutorials
-Full PHP Tutorial Basic to Advanced php 
+Full PHP Tutorial Basic to Advanced PHP
