@@ -15,6 +15,7 @@ final class Base
     }
 }
 
+
 $obj = new Base();
 $obj->printdata();
 $obj->nonfinal();
